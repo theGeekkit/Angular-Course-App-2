@@ -27,7 +27,7 @@
               "src/styles.css"
             ],
             "scripts": [],
-
+            "es5BrowserSupport": true
           },
           "configurations": {
             "production": {
@@ -133,8 +133,5 @@
       }
     }
   },
-  "defaultProject": "ng-complete-guide-update",
-  "cli": {
-    "analytics": false
-  }
+  "defaultProject": "ng-complete-guide-update"
 }
